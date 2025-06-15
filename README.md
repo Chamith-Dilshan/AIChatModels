@@ -191,4 +191,5 @@ Refer to [Ollama documentation](https://github.com/ollama/ollama/blob/main/docs/
 
 ## License
 
-This project is for educational and demonstration purposes. 
+This project is for educational and demonstration purposes. If you found this usefull don't forget to 
+give a Star and credits. 
