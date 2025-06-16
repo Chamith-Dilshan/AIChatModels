@@ -28,6 +28,7 @@ fastembed
 pikepdf
 sentence-transformers
 elevenlabs
+streamlit
 
 # if not installed you have to install Popler because
 # the pdf2image library requires Poppler to be installed and add

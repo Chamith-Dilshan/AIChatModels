@@ -18,3 +18,4 @@ __pycache__/
 
 # Other temporary files or directories you don't want to commit
 temp/
+chroma_db/
